@@ -10,7 +10,7 @@ Visualizar patrones de comportamiento según variables categóricas y numéricas
 Generar insights para tomar decisiones estratégicas.
 
  Herramientas utilizadas
-Python 🐍
+Python 
 Pandas
 Seaborn / Matplotlib
 Google Colab
